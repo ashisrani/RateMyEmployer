@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+   
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+   
+html,
+body {
+    height: 100%;
+    position: relative;
+    padding-top: 30px;
+}
+
+body {
+    border: 1px solid transparent;
+    background: linear-gradient(to bottom,black,  black);
+    padding-bottom: 150px;
+}
+
+.main-container {
+    min-height: 100vh; /* will cover the 100% of viewport */
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 100px; /* height of your footer */
+}
+
+
+/* Nav Styles */
+#banner-text {
+    font-size: 1.2em;
+}
+
+#nav-logo{
+    max-width: 30px;
+    max-height: 30px;
+    margin-right: 10px;
+}
+
+.nav-item:hover {
+    background-color: #84bd00;
+}
+
+nav {
+    background: linear-gradient(to bottom,black, black);
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+#root {
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    padding-left: 10px;
+}
+
+h3 a {
+    color: white;
+}
+
+.further-links li {
+    margin-left: 30px;
+}
+
+.further-links a:hover {
+    color: #BFEFFF;
+}
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    left: 0;
+}
+
+.login {
+    padding-left: 20px;
+}
+
+
+
