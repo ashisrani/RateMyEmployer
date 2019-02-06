@@ -48,6 +48,15 @@ export class Home extends Component {
 								Software Engineering Intern at Booz Allen Hamilton (June 2017 - September 2017) 
 								Revenue Management Intern at Pacifica Companies (June 2016 - September 2016)
 								</p>
+								<h3>Who do you want to hear from?</h3>
+							  <ul>
+									<li>Recent College Grads: Students looking for more information on companies they intend to work for</li>
+									<li>Mid Career Professionals: Professionals who have multiple offers on the table looking to weigh their options between companies</li>
+									<li>Professionals who have experienced misconduct in the workplace: How can our application help people like them avoid this issue?</li>
+									<li>Informatics Students: We want our fellow students to test and review our preliminary platform</li>
+									<li>Info Client Side Department: We would like a periodic review of our design in order to understand how to build an effective communal platform</li>
+								</ul>
+							
 							</div>
 						</div>
 					</div>
@@ -57,7 +66,7 @@ export class Home extends Component {
 
 					
 					<div className="container-fluid">
-              <h2 className="mx-auto">Site Overview</h2>
+              <h2 className="mx-auto"></h2>
 							<ul>
 								<div className="col-sm">
 									{/* <h3>

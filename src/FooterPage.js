@@ -15,6 +15,7 @@ class FooterPage extends React.Component {
                     <Col md="6">
                         <h5 className="title">Contact Information:</h5>
                         <p><a href="mailto:chaitanya.gangavarapu@gmail.com">chaitanya.gangavarapu@gmail.com</a></p>
+                        
                     </Col>
                 </Row>
             </Container>
