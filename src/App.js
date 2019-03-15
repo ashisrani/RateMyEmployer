@@ -1,13 +1,25 @@
 import React, { Component } from 'react';
 import './App.css';
 import Home from './Home'
+import {BrowserRouter as Router, Route, Link, Switch} from 'react-router-dom'
+import Nav from './Nav'
+import writeReview from './writereview'
+import Demo from './demo'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <Home></Home>
-      </div>
+        <Router>
+          <div className="App">
+            <Nav/>
+            <Switch>
+              <Route path="/WriteReview" component={writeReview}/>
+              <Route path="/Reviews" component={Demo}/>
+              <Route path="/Home" component={Home}/>
+              <Route path="/" component={Home}/>
+            </Switch>
+          </div>
+        </Router>
     );
   }
 }
