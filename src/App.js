@@ -5,6 +5,7 @@ import {BrowserRouter as Router, Route, Link, Switch} from 'react-router-dom'
 import Nav from './Nav'
 import writeReview from './writereview'
 import Demo from './demo'
+import AmazonReview from './AmazonReview'
 
 class App extends Component {
   render() {
@@ -16,7 +17,7 @@ class App extends Component {
               <Route path="/WriteReview" component={writeReview}/>
               <Route path="/Reviews" component={Demo}/>
               <Route path="/Home" component={Home}/>
-              <Route path="/" component={Home}/>
+              <Route path="/" component={AmazonReview}/>
             </Switch>
           </div>
         </Router>

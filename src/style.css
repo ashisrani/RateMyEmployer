@@ -68,6 +68,9 @@ ul {
 h3 a {
     color: white;
 }
+.reviews {
+    color: black;
+}
 
 .further-links li {
     margin-left: 30px;
@@ -89,5 +92,9 @@ footer {
     padding-left: 20px;
 }
 
+.show>.dropdown-menu {
+    display: block;
+    position: absolute;
+  }
 
 
