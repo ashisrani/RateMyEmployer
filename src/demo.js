@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link, Switch} from 'react-router-dom';
+import AmazonReview from './AmazonReview';
 
 class Demo extends Component {
     render() {
@@ -33,7 +34,7 @@ class Dropdown extends Component {
             <a className="dropdown-item" href="#nogo">
               Microsoft
             </a>
-            <a className="dropdown-item" href="ReviewAmazon89897979">
+            <a className="dropdown-item" href="AmazonReview">
               Amazon
             </a>
             <a className="dropdown-item" href="#nogo">

@@ -20,6 +20,9 @@ class Nav extends Component {
               <li className="nav-item">
                 <Link className="nav-link" to='/Reviews'>Company and Team Reviews</Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to='/ReviewG'>Reviews</Link>
+              </li>
             </ul>
           </nav>
         );

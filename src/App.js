@@ -6,6 +6,7 @@ import Nav from './Nav'
 import writeReview from './writereview'
 import Demo from './demo'
 import AmazonReview from './AmazonReview'
+import gForm from './gForm'
 
 class App extends Component {
   render() {
@@ -16,8 +17,11 @@ class App extends Component {
             <Switch>
               <Route path="/WriteReview" component={writeReview}/>
               <Route path="/Reviews" component={Demo}/>
+              <Route path="/ReviewG" component={gForm}/>
               <Route path="/Home" component={Home}/>
-              <Route path="/" component={AmazonReview}/>
+              <Route path="/AmazonReview" component={AmazonReview}/>
+              <Route path="/" component={Home}/>
+      
             </Switch>
           </div>
         </Router>
