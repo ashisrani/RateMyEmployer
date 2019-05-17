@@ -21,9 +21,9 @@ class App extends Component {
               <Route path="/ReviewG" component={gForm}/>
               <Route path="/Home" component={Home}/>
               <Route path="/AmazonReview" component={AmazonReview}/>
-              <Route path="/" component={Home}/>
               <Route path="/MicrosoftReview" component={MicrosoftReview}/>
               <Route path="/DeloitteReview" component={DeloitteReview}/>
+              <Route path="/" component={Home}/>
             </Switch>
           </div>
         </Router>
