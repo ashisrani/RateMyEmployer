@@ -31,13 +31,13 @@ class Dropdown extends Component {
             Company?
           </button>
           <div className={menuClass} aria-labelledby="dropdownMenuButton">
-            <a className="dropdown-item" href="#nogo">
+            <a className="dropdown-item" href="MicrosoftReview">
               Microsoft
             </a>
             <a className="dropdown-item" href="AmazonReview">
               Amazon
             </a>
-            <a className="dropdown-item" href="#nogo">
+            <a className="dropdown-item" href="DeloitteReview">
               Deloitte
             </a>
           </div>

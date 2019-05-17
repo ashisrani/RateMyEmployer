@@ -7,7 +7,8 @@ import writeReview from './writereview'
 import Demo from './demo'
 import AmazonReview from './AmazonReview'
 import gForm from './gForm'
-
+import DeloitteReview from './DeloitteReview'
+import MicrosoftReview from './MicrosoftReview'
 class App extends Component {
   render() {
     return (
@@ -21,7 +22,8 @@ class App extends Component {
               <Route path="/Home" component={Home}/>
               <Route path="/AmazonReview" component={AmazonReview}/>
               <Route path="/" component={Home}/>
-      
+              <Route path="/MicrosoftReview" component={MicrosoftReview}/>
+              <Route path="/DeloitteReview" component={DeloitteReview}/>
             </Switch>
           </div>
         </Router>
