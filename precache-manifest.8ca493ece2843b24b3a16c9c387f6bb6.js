@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
-    "url": "/RateMyEmployer/static/media/Roboto-Medium.4d9f3f9e.eot"
+    "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
+    "url": "/RateMyEmployer/static/media/Roboto-Bold.ecdd509c.eot"
   },
   {
-    "revision": "cc2afd8bcaa81086c69b",
-    "url": "/RateMyEmployer/static/css/main.8c1309c9.chunk.css"
+    "revision": "70fc3deab0dfbfe55309",
+    "url": "/RateMyEmployer/static/css/main.a24b013a.chunk.css"
   },
   {
     "revision": "e80a1262534bd184b383",
     "url": "/RateMyEmployer/static/js/runtime~main.0bd385bd.js"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/RateMyEmployer/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/RateMyEmployer/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "ae87f9a4d0bcc24205f6",
-    "url": "/RateMyEmployer/static/js/2.70947771.chunk.js"
+    "revision": "95f938faf135973a7c16",
+    "url": "/RateMyEmployer/static/js/2.d142ea0c.chunk.js"
   },
   {
     "revision": "cdd9e10269da6108011b30b58ddf5628",
@@ -56,6 +56,10 @@ self.__precacheManifest = [
     "url": "/RateMyEmployer/static/media/xbox.acc0250d.jpg"
   },
   {
+    "revision": "61e5eff8f0199628c371beef66164a5e",
+    "url": "/RateMyEmployer/static/media/azure.61e5eff8.png"
+  },
+  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/RateMyEmployer/static/media/arrow_left.11911410.svg"
   },
@@ -68,20 +72,20 @@ self.__precacheManifest = [
     "url": "/RateMyEmployer/static/media/Roboto-Light.a990f611.eot"
   },
   {
-    "revision": "dfe56a876d0282555d1e2458e278060f",
-    "url": "/RateMyEmployer/static/media/Roboto-Thin.dfe56a87.eot"
-  },
-  {
-    "revision": "cc2afd8bcaa81086c69b",
-    "url": "/RateMyEmployer/static/js/main.a01fc6fb.chunk.js"
-  },
-  {
     "revision": "30799efa5bf74129468ad4e257551dc3",
     "url": "/RateMyEmployer/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
-    "url": "/RateMyEmployer/static/media/Roboto-Bold.ecdd509c.eot"
+    "revision": "70fc3deab0dfbfe55309",
+    "url": "/RateMyEmployer/static/js/main.1a7d5a7e.chunk.js"
+  },
+  {
+    "revision": "dfe56a876d0282555d1e2458e278060f",
+    "url": "/RateMyEmployer/static/media/Roboto-Thin.dfe56a87.eot"
+  },
+  {
+    "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
+    "url": "/RateMyEmployer/static/media/Roboto-Medium.4d9f3f9e.eot"
   },
   {
     "revision": "954bbdeb86483e4ffea00c4591530ece",
@@ -92,6 +96,10 @@ self.__precacheManifest = [
     "url": "/RateMyEmployer/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
+    "revision": "2751ee43015f9884c3642f103b7f70c9",
+    "url": "/RateMyEmployer/static/media/Roboto-Regular.2751ee43.woff2"
+  },
+  {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/RateMyEmployer/static/media/Roboto-Medium.574fd0b5.woff2"
   },
@@ -100,12 +108,12 @@ self.__precacheManifest = [
     "url": "/RateMyEmployer/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
-    "revision": "7500519de3d82e33d1587f8042e2afcb",
-    "url": "/RateMyEmployer/static/media/Roboto-Thin.7500519d.woff"
-  },
-  {
     "revision": "3b813c2ae0d04909a33a18d792912ee7",
     "url": "/RateMyEmployer/static/media/Roboto-Light.3b813c2a.woff"
+  },
+  {
+    "revision": "7500519de3d82e33d1587f8042e2afcb",
+    "url": "/RateMyEmployer/static/media/Roboto-Thin.7500519d.woff"
   },
   {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
@@ -120,31 +128,27 @@ self.__precacheManifest = [
     "url": "/RateMyEmployer/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "2751ee43015f9884c3642f103b7f70c9",
-    "url": "/RateMyEmployer/static/media/Roboto-Regular.2751ee43.woff2"
-  },
-  {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/RateMyEmployer/static/media/Roboto-Thin.94998475.ttf"
-  },
-  {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/RateMyEmployer/static/media/Roboto-Light.46e48ce0.ttf"
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/RateMyEmployer/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
     "url": "/RateMyEmployer/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/RateMyEmployer/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/RateMyEmployer/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "ae87f9a4d0bcc24205f6",
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/RateMyEmployer/static/media/Roboto-Thin.94998475.ttf"
+  },
+  {
+    "revision": "95f938faf135973a7c16",
     "url": "/RateMyEmployer/static/css/2.203667c6.chunk.css"
   },
   {
-    "revision": "26fa1f3964833dd743bab93d8e940122",
+    "revision": "8809032e2a7df6eded8d342d9742234d",
     "url": "/RateMyEmployer/index.html"
   }
 ];
