@@ -46,9 +46,9 @@ class Drop extends Component {
         <div>
           <ButtonGroup> 
             <DropdownButton as={ButtonGroup} title="Companies" id="loanlink">
-              <Dropdown.Item href="RateMyEmployer/AmazonReview">Amazon</Dropdown.Item>
-              <Dropdown.Item href="RateMyEmployer/MicrosoftReview">Microsoft</Dropdown.Item>
-              <Dropdown.Item href="RateMyEmployer/DeloitteReview">Deloitte</Dropdown.Item>
+              <Dropdown.Item href="/AmazonReview">Amazon</Dropdown.Item>
+              <Dropdown.Item href="/MicrosoftReview">Microsoft</Dropdown.Item>
+              <Dropdown.Item href="/DeloitteReview">Deloitte</Dropdown.Item>
             </DropdownButton>
           </ButtonGroup>
         </div>
