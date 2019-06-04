@@ -13,7 +13,7 @@ class DeloitteReview extends Component {
                 <div class="card">
                     <img class="card-img-top" src={consulting} alt="Card image cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    {/* <h5 class="card-title">Card title</h5> */}
                     <p class="card-text"> 
                         <div>Overall Score: 4.13 Stars</div> <div>Average PTO: 6.5 days</div>
                         <div>Highlighted Comments: lots of travel</div>
@@ -25,7 +25,7 @@ class DeloitteReview extends Component {
                 <div class="card">
                     <img class="card-img-top" src={digital} alt="Card image cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    {/* <h5 class="card-title">Card title</h5> */}
                     <p class="card-text"> 
                         <div>Overall Score: 4.23 Stars</div> <div>Average PTO: 7.6 days</div>
                         <div>Highlighted Comments: leadership is hard to connect with</div>
@@ -36,7 +36,7 @@ class DeloitteReview extends Component {
                 </div>
                 <div class="card">
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    {/* <h5 class="card-title">Card title</h5> */}
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>

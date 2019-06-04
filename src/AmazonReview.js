@@ -11,7 +11,7 @@ class AmazonReview extends Component {
                 <div class="card">
                     <img class="card-img-top" src={alexa} alt="Card image cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    {/* <h5 class="card-title">Card title</h5> */}
                     <p class="card-text"> 
                         <div>Overall Score: 4.43 Stars</div> <div>Average PTO: 8.4 days</div>
                         <div>Highlighted Comments: Too many hours, No relationship with management, difficult to move up, etc.</div>
@@ -23,7 +23,7 @@ class AmazonReview extends Component {
                 <div class="card">
                     <img class="card-img-top" src={aws} alt="Card image cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    {/* <h5 class="card-title">Card title</h5> */}
                     <p class="card-text"> 
                         <div>Overall Score: 4.32 Stars</div> <div>Average PTO: 6.1 days</div>
                         <div>Highlighted Comments: good events outside of work</div>
@@ -35,7 +35,7 @@ class AmazonReview extends Component {
                 <div class="card">
                     <img class="card-img-top" src={music} alt="Card image cap"/>
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    {/* <h5 class="card-title">Card title</h5> */}
                     <p class="card-text"> 
                         <div>Overall Score: 4.57 Stars</div> <div>Average PTO: 10.2 days</div>
                         <div>Highlighted Comments: diverse projects</div>

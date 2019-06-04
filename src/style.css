@@ -1,5 +1,14 @@
 * {
     box-sizing: border-box;
+    color: black;
+}
+
+a {
+    color: black
+}
+
+p {
+    color: black
 }
    
 *:before,
@@ -14,11 +23,11 @@ body {
     padding-top: 30px;
 }
 
-body {
+/* body {
     border: 1px solid transparent;
     background: linear-gradient(to bottom,black,  black);
     padding-bottom: 150px;
-}
+} */
 
 .main-container {
     min-height: 100vh; /* will cover the 100% of viewport */
@@ -41,19 +50,24 @@ body {
 }
 
 .nav-item:hover {
-    background-color: #0042bd;
+    background-color: cornflowerblue;
+}
+.nav-item {
+    color: black
 }
 
 nav {
-    background: linear-gradient(to bottom,black, black);
+    background: linear-gradient(to bottom,white, white);
 }
 
 .nav-link {
     cursor: pointer;
+    color: black;
 }
 
+
 #root {
-    color: white;
+    color: black;
 }
 
 .flex-container {
@@ -65,9 +79,9 @@ ul {
     padding-left: 10px;
 }
 
-h3 a {
+/* h3 a {
     color: white;
-}
+} */
 .reviews {
     color: black;
 }
@@ -80,21 +94,22 @@ h3 a {
     color: #BFEFFF;
 }
 
-footer {
+Footer {
     width: 100%;
     position: absolute;
     bottom: 0;
     height: 100px;
     left: 0;
+    color: black;
 }
 
 .login {
     padding-left: 20px;
 }
 
-.show>.dropdown-menu {
+/* .show>.dropdown-menu {
     display: block;
-    position: absolute;
-  }
+    position: relative;
+  } */
 
 

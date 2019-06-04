@@ -16,7 +16,7 @@ class App extends Component {
           <div className="App">
             <Nav/>
             <Switch>
-              <Route path="/WriteReview" component={writeReview}/>
+              {/* <Route path="/WriteReview" component={writeReview}/> */}
               <Route path="/Reviews" component={Demo}/>
               <Route path="/ReviewG" component={gForm}/>
               <Route path="/Home" component={Home}/>
