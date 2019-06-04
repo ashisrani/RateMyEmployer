@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/RateMyEmployer/precache-manifest.0b2870a368a35b430ad80cbd02b78aff.js"
+  "/RateMyEmployer/precache-manifest.db0270a91cf8d07e00a17221aea93161.js"
 );
 
 workbox.clientsClaim();
